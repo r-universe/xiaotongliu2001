@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "WPKDE"]
 	path = WPKDE
-	url = https://github.com/xiaotongliu2001/wpkde
+	url = https://github.com/cran/WPKDE
